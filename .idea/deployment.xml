@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="TEPLOTEN" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="TEPLOTEN">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/www/teploten.ru" local="$PROJECT_DIR$" web="teploten.ru" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/www/teploten.ru/bitrix/activities" />
+            <excludedPath path="/www/teploten.ru/bitrix/admin" />
+            <excludedPath path="/www/teploten.ru/bitrix/backup" />
+            <excludedPath path="/www/teploten.ru/bitrix/blocks" />
+            <excludedPath path="/www/teploten.ru/bitrix/cache" />
+            <excludedPath path="/www/teploten.ru/bitrix/catalog_export" />
+            <excludedPath path="/www/teploten.ru/bitrix/components" />
+            <excludedPath path="/www/teploten.ru/bitrix/crontab" />
+            <excludedPath path="/www/teploten.ru/bitrix/css" />
+            <excludedPath path="/www/teploten.ru/bitrix/fonts" />
+            <excludedPath path="/www/teploten.ru/bitrix/gadgets" />
+            <excludedPath path="/www/teploten.ru/bitrix/images" />
+            <excludedPath path="/www/teploten.ru/bitrix/js" />
+            <excludedPath path="/www/teploten.ru/bitrix/legal" />
+            <excludedPath path="/www/teploten.ru/bitrix/managed_cache" />
+            <excludedPath path="/www/teploten.ru/bitrix/modules" />
+            <excludedPath path="/www/teploten.ru/bitrix/otp" />
+            <excludedPath path="/www/teploten.ru/bitrix/panel" />
+            <excludedPath path="/www/teploten.ru/bitrix/php_interface" />
+            <excludedPath path="/www/teploten.ru/bitrix/services" />
+            <excludedPath path="/www/teploten.ru/bitrix/sounds" />
+            <excludedPath path="/www/teploten.ru/bitrix/stack_cache" />
+            <excludedPath path="/www/teploten.ru/bitrix/themes" />
+            <excludedPath path="/www/teploten.ru/bitrix/tmp" />
+            <excludedPath path="/www/teploten.ru/bitrix/tools" />
+            <excludedPath path="/www/teploten.ru/bitrix/updates" />
+            <excludedPath path="/www/teploten.ru/bitrix/wizards" />
+            <excludedPath path="/www/teploten.ru/bitrix/templates/aspro_max_mail" />
+            <excludedPath path="/www/teploten.ru/bitrix/templates/aspro_max_test" />
+            <excludedPath path="/www/teploten.ru/bitrix/templates/empty" />
+            <excludedPath path="/www/teploten.ru/bitrix/templates/eshop_bootstrap_v4" />
+            <excludedPath path="/www/teploten.ru/bitrix/templates/landing24" />
+            <excludedPath path="/www/teploten.ru/bitrix/templates/teploten" />
+            <excludedPath path="/www/teploten.ru/bitrix/templates/.default" />
+            <excludedPath path="/www/teploten.ru/teploten.ru" />
+            <excludedPath path="/www/teploten.ru/upload" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/activities" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/admin" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/backup" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/blocks" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/cache" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/catalog_export" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/components" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/crontab" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/css" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/fonts" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/gadgets" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/images" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/js" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/legal" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/managed_cache" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/modules" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/otp" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/panel" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/php_interface" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/services" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/sounds" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/stack_cache" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/themes" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/tmp" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/tools" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/updates" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/wizards" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/templates/aspro_max_mail" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/templates/aspro_max_test" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/templates/empty" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/templates/eshop_bootstrap_v4" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/templates/landing24" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/templates/teploten" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/templates/.default" />
+            <excludedPath local="true" path="$PROJECT_DIR$/teploten.ru" />
+            <excludedPath local="true" path="$PROJECT_DIR$/upload" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

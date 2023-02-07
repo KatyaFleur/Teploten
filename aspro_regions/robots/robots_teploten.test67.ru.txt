@@ -1,0 +1,4 @@
+User-Agent: *
+Host: teploten.test67.ru
+Disallow: /bitrix/
+Sitemap: https://teploten.test67.ru/sitemap.xml

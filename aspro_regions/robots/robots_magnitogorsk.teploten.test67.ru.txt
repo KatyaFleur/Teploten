@@ -1,0 +1,4 @@
+User-Agent: *
+Host: magnitogorsk.teploten.test67.ru
+Disallow: /bitrix/
+Sitemap: https://magnitogorsk.teploten.test67.ru/sitemap.xml

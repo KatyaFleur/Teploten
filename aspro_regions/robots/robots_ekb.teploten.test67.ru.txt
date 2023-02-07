@@ -1,0 +1,4 @@
+User-Agent: *
+Host: ekb.teploten.test67.ru
+Disallow: /bitrix/
+Sitemap: https://ekb.teploten.test67.ru/sitemap.xml

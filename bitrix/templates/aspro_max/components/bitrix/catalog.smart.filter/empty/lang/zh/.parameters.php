@@ -1,0 +1,16 @@
+<?php
+$MESS["CP_BCT_TPL_THEME_SITE"] = "从网站设置中获取主题（对于bitrix。eshop解决方案)";
+$MESS["CP_BCT_TPL_THEME_BLUE"] = "蓝色（默认主题)";
+$MESS["CP_BCT_TPL_THEME_GREEN"] = "绿色";
+$MESS["CP_BCT_TPL_THEME_WOOD"] = "树";
+$MESS["CP_BCT_TPL_THEME_YELLOW"] = "黄色";
+$MESS["CP_BCT_TPL_THEME_RED"] = "红色";
+$MESS["CP_BCT_TPL_THEME_BLACK"] = "黑暗";
+$MESS["CP_BCT_TPL_TEMPLATE_THEME"] = "颜色主题";
+$MESS["CP_BCT_TPL_FILTER_VIEW"] = "显示类型";
+$MESS["CP_BCT_TPL_FILTER_VIEW_H"] = "水平";
+$MESS["CP_BCT_TPL_FILTER_VIEW_V"] = "垂直";
+$MESS["CP_BCT_TPL_POPUP_POSITION"] = "用于显示具有过滤信息的弹出框的位置";
+$MESS["CP_BCT_TPL_POPUP_POSITION_LEFT"] = "左边";
+$MESS["CP_BCT_TPL_POPUP_POSITION_RIGHT"] = "在右边";
+$MESS["TP_BCSF_DISPLAY_ELEMENT_COUNT"] = "显示数量";

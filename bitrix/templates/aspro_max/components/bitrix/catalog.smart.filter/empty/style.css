@@ -1,0 +1,25 @@
+.tags_filter_inner{
+	padding: 10px;
+	display: flex;
+	flex-wrap: wrap;
+}
+.tags_filter_inner .tag{
+	padding: 3px 5px 3px 5px;
+	margin-right: 5px;
+	position: relative;
+	cursor: pointer;
+	display: flex;
+	    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.tags_filter_inner .cancel{
+	font-style: normal;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    margin-left: 8px;
+    font-size: 35px;
+    line-height: 1;
+    display: block;
+}
